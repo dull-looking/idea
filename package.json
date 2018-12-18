@@ -1,0 +1,16 @@
+{
+  "name": "tuia-frontend-manual",
+  "version": "1.0.0",
+  "description": "推啊前端白皮书",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "repository": "git@gitlab2.dui88.com:tuia-frontend/tuia-activity-frontend/tuia-frontend-manual.git",
+  "author": "zm@tuia.cn",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^0.14.4"
+  }
+}
